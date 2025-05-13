@@ -32,7 +32,7 @@ namespace calculator
         public (double, string, double) Parse(string input)
         {
             string[] parts = input.Split(' ');
-
+            int a;
             if (parts.Length != 3)
             {
                 throw new FormatException("Input must be in the format: number operator number");
@@ -44,6 +44,7 @@ namespace calculator
 
             return (num1, op, num2);
         }
+
     }
 
     // Calculator class to perform operations
