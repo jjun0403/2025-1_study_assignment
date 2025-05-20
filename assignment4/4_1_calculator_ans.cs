@@ -71,7 +71,7 @@ Result: 12ㅁㄴㅇㄹ
 Enter an expression (ex. 2 + 3):
 >> 4 ** 3
 Result: 64
-
+ㅁㄴㅇㄻㄴㅇㄹ
 Enter an expression (ex. 2 + 3):
 >> 5 ** -2
 Result: 0.04
