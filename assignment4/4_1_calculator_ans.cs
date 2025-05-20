@@ -61,7 +61,7 @@ namespace calculator
 
 Enter an expression (ex. 2 + 3):
 >> 4 * 3
-Result: 12
+Result: 12ㅁㄴㅇㄹ
 
 */
 
