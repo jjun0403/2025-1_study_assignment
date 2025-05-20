@@ -6,6 +6,7 @@ namespace calculator
     {
         static void Main(string[] args)
         {
+            printf("asdfasdf");
             Console.WriteLine("Enter an expression (ex. 2 + 3): ");
             string input = Console.ReadLine();
 
